@@ -13,6 +13,7 @@
     "packagr": "ng-packagr -p ng-package.json",
     "prepackagr": "ng test -sr && ng lint"
   },
+  "repository": "https://github.com/lacolaco/grid-layout.git",
   "private": false,
   "dependencies": {
     "@angular/animations": "^5.0.0",
