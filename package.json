@@ -11,7 +11,8 @@
     "lint": "ng lint",
     "e2e": "ng e2e",
     "packagr": "ng-packagr -p ng-package.json",
-    "prepackagr": "ng test -sr && ng lint"
+    "prepackagr": "ng test -sr && ng lint",
+    "prepublish": "npm run packagr"
   },
   "repository": "https://github.com/lacolaco/grid-layout.git",
   "private": false,
