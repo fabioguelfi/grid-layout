@@ -1,14 +1,22 @@
 # ngx-grid-layout
 
+An Angular module to construct layout with CSS Grid Layout
+
+https://yarn.pm/@lacopkg/ngx-grid-layout
+
 ## Install
 
 ```
 $ npm i @lacopkg/ngx-grid-layout
 ```
 
+## Demo
+
+Demo is available at https://lacolaco.github.io/grid-layout/ .
+
 ## How to Use
 
-1. Import `GridLayoutModule` into your NgModule
+ 1. Import `GridLayoutModule` into your NgModule
 
 ```ts
 import { BrowserModule } from '@angular/platform-browser';
@@ -32,7 +40,7 @@ import { GridLayoutModule } from './modules/grid-layout/grid-layout.module';
 export class AppModule { }
 ```
 
-2. Use directives
+ 2. Use directives
 
 ```html
 <grid-layout id="container" 

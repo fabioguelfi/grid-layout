@@ -1,5 +1,6 @@
 {
   "name": "@lacopkg/ngx-grid-layout",
+  "description": "An Angular module to construct layout with CSS Grid Layout",
   "version": "0.1.1",
   "license": "MIT",
   "scripts": {
