@@ -1,7 +1,7 @@
 {
   "name": "@lacolaco/ngx-grid-layout",
   "description": "An Angular module to construct layout with CSS Grid Layout",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "license": "MIT",
   "scripts": {
     "ng": "ng",
